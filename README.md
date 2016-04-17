@@ -1,2 +1,3 @@
-# fancy_game_client
-A fancy_game client demo, based on Cocos2dx.
+#fancy_game_client
+
+#client cocos2dx-3.10
